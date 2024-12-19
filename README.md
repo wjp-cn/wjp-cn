@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wercurial&layout=compact)](https://github.com/Wercurial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjp-cn&layout=compact)](https://github.com/wjp-cn/github-readme-stats)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wercurial&show_icons=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjp-cn&show_icons=true&theme=tokyonight)
 
-My visitor's number is ![Visitor Count](https://profile-counter.glitch.me/Wercurial/count.svg)!
+My visitor's number is ![Visitor Count](https://profile-counter.glitch.me/wjp-cn/count.svg)!
